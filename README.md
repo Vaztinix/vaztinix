@@ -10,8 +10,6 @@
 
 </div>
 
----
-
 ### My Activity
 <div align="center">
 
