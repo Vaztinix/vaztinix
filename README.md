@@ -23,9 +23,3 @@
 [![Discord Presence](https://lanyard.kyrie25.dev/api/1214048435632603137?showDisplayName=false&forceGradient=false&hideDecoration=true&animatedDecoration=true&hideStatus=false&hideProfile=false&hideSpotify=false&hideNameplate=false&hideBadges=false&hideActivity=false&bg=000&gradient=ffff&showBanner=animated)](https://discord.com/users/1214048435632603137)
 
 </div>
-
----
-
-### Thanks for stopping by!
-
-Feel free to take a look my repos, and star something you like.
