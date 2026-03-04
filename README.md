@@ -19,7 +19,6 @@
 <a href="#"><p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=vaztinix&color=gray" /></p> </a>
 <br></div>
 
-### Currently a draft | Presence
 [![Discord Presence](https://lanyard.kyrie25.dev/api/1214048435632603137?showDisplayName=true&forceGradient=true&hideDecoration=false&animatedDecoration=false&hideStatus=false&hideProfile=false&hideSpotify=false&hideNameplate=false&hideBadges=false&hideActivity=false&bg=000&gradient=ffff&showBanner=animated)](https://discord.com/users/1214048435632603137)
 
 </div>
