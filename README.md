@@ -1,6 +1,6 @@
 
 
-![INTRO](https://capsule-render.vercel.app/api?type=blur&height=350&color=0067B3&text=Hello,%20I'm%20Vaztinix&textBg=false&desc=I%20am%20a%20Official%20Support%20member%20in%20Kite.onl.&fontAlignY=45&fontAlign=50&animation=fadeIn&section=header&reversal=false&fontColor=fff)
+![INTRO](https://capsule-render.vercel.app/api?type=blur&height=350&color=0067C7&text=Hello,%20I'm%20Vaztinix&textBg=false&desc=I%20am%20a%20Official%20Support%20member%20in%20Kite.onl.&fontAlignY=45&fontAlign=50&animation=fadeIn&section=header&reversal=false&fontColor=fff)
  
 ##  
 
