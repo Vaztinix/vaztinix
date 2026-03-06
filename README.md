@@ -1,6 +1,6 @@
 #### Hey! 👋 I’m Vaztinix! I am a 15 year old developer who just really enjoys building things, breaking things, and then fixing them again. I’m turning 16 on July 30th, and honestly, coding has been my main hobby for years now. I love learning new stuff, especially when it comes to JavaScript, TypeScript, Python, and anything that lets me create something cool.
 
-#### I’m part of the support team at Kite.onl, and I spend a lot of time helping people out, improving tools, and contributing to projects. I’ve even made some docs updates and added UNIX timestamps to embed footers, which are already approved and waiting to merge.
+#### I’m part of the support team at Kite.onl, and I spend a lot of time helping people out, improving tools, and contributing to projects. I’ve even made some docs updates and added UNIX timestamps to embed footers, which are already completed and waiting to merge.
 
 #### My main project right now is Nora, my bot that’s listed on top.gg and Discord Discovery. Nora's built to be privacy‑first, helpful, and actually fun to use. I’m always adding new features and making Nora smarter.
 
