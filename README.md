@@ -1,4 +1,4 @@
-#### Hey! 👋 I’m Vaztinix! I am a 15 year old developer who just really enjoys building things, breaking things, and then fixing them again. I’m turning 16 on July 30th, and honestly, coding has been my main hobby for years now. I love learning new stuff, especially when it comes to JavaScript, TypeScript, Python, and anything that lets me create something cool.
+#### Hey! 👋 I’m Vaztinix! I am a full-stack developer who just really enjoys building things, breaking things, and then fixing them again. My Birthday is on July 30th, and honestly, coding has been my main hobby for years now. I love learning new stuff, especially when it comes to JavaScript, TypeScript, Python, and anything that lets me create something cool.
 
 #### I’m part of the support team at Kite.onl, and I spend a lot of time helping people out, improving tools, and contributing to projects. I’ve even made some docs updates and added UNIX timestamps to embed footers, which are already completed and waiting to merge.
 
