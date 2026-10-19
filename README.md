@@ -2,6 +2,8 @@
 
 #### I’m ex-staff member of the support team at Kite.onl, and I spent a lot of time helping people out, improving tools, and contributing to projects. I’ve even made some docs updates and added UNIX timestamps to embed footers, which are already completed and have been merged. 
 
+#### I am currently the Head Developer at Milo's World, a YouTube Community Hub and chat space for Milo's Community. I make updates to my Discord Application tailored to their community and add new features from their amazing recommendations. 
+
 #### My main project right now is Nora, my bot that’s listed on top.gg and Discord Discovery. Nora's built to be privacy‑first, helpful, and actually fun to use. I’m always adding new features and making Nora smarter.
 
 <div align="center">
